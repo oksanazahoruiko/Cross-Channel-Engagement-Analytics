@@ -1,1 +1,2 @@
-# Engineered a complex SQL pipeline to unify and aggregate multi-source data from account sessions and email marketing campaigns. Implemented window functions to calculate country-level performance metrics, enabling comparative analysis of user engagement and reach across geographic segments.
+# Cross-Channel Engagement Analytics
+Engineered a complex SQL pipeline to unify and aggregate multi-source data from account sessions and email marketing campaigns. Implemented window functions to calculate country-level performance metrics, enabling comparative analysis of user engagement and reach across geographic segments.
